@@ -69,6 +69,7 @@ public class Compass extends JavaPlugin implements Listener{
 
     return String.valueOf(rotation);
   }
+  
 
   @EventHandler
     public void onMove(PlayerMoveEvent event) {
