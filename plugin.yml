@@ -1,0 +1,16 @@
+name: Compass
+
+author: yourname
+
+main: compass.Compass
+
+commands:
+    compass:
+        description: Your description goes here
+        usage: Usage of the command goes here
+    compass_admin:
+        description: Your description goes here
+        usage: Usage of the command goes here
+
+version: 0.1
+
